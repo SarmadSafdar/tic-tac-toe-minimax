@@ -1,0 +1,14 @@
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\obj\Debug\net8.0\Tic Tac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\obj\Debug\net8.0\Tic Tac.AssemblyInfoInputs.cache
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\obj\Debug\net8.0\Tic Tac.AssemblyInfo.cs
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\obj\Debug\net8.0\Tic Tac.csproj.CoreCompileInputs.cache
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\bin\Debug\net8.0\Tic Tac.exe
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\bin\Debug\net8.0\Tic Tac.deps.json
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\bin\Debug\net8.0\Tic Tac.runtimeconfig.json
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\bin\Debug\net8.0\Tic Tac.dll
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\bin\Debug\net8.0\Tic Tac.pdb
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\obj\Debug\net8.0\Tic Tac.dll
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\obj\Debug\net8.0\refint\Tic Tac.dll
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\obj\Debug\net8.0\Tic Tac.pdb
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\obj\Debug\net8.0\Tic Tac.genruntimeconfig.cache
+C:\Users\samyd\OneDrive\Documents\Study\University Spring 2024\CSC 253\Term Project\Tic Tac\obj\Debug\net8.0\ref\Tic Tac.dll
